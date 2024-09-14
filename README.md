@@ -9,7 +9,7 @@
 - <b>Web Projects</b>
   - [Random CSS Projects](https://github.com/txnello/css-prjs)
 
-<h2>🔗 Some links</h2>
+<h2>🔗 Other things</h2>
 
 - [Google UX Designer Certification](https://www.credly.com/badges/b8905df7-77f0-41e0-a4ff-da1f56d99a28)
 - [LinkedIn](https://www.linkedin.com/in/txnello/)
