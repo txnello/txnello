@@ -5,9 +5,8 @@
 - <b>Mobile App Projects</b>
   - [Daily Planner](https://github.com/txnello/daily-planner)
   - [Tomato Gym](https://github.com/txnello/tomato-gym)
-  - [Random Flutter Projects](https://github.com/txnello/mobile-prjs)
-- <b>Web Projects</b>
-  - [Random CSS Projects](https://github.com/txnello/css-prjs)
+- <b>.NET</b>
+  - [IIS Automation Tool](https://github.com/txnello/IISAutomationTool)
 
 <h2>🔗 Other things</h2>
 
